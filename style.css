@@ -6,7 +6,7 @@ body, ul{
     padding: 0;
 }
 main{
-  min-height: 77vh;
+  min-height: 83vh;
 }
 .container{
     max-width: 800px;
@@ -77,7 +77,8 @@ footer{
     justify-content: center;    
     background-color: black;
     color: white;
-    min-height: 100px;
+    min-height: 60px;
+    width: 100%;
     text-align: center;
     position: relative;
     bottom: 0;

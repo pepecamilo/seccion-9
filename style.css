@@ -29,6 +29,9 @@ main{
     background-color: black;
   }
   
+  .greeting {
+    text-align: center;
+  }
   
   .navbar {
     display: flex;
